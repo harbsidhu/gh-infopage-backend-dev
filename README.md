@@ -1,2 +1,3 @@
-# gh-infopage-backend-dev
-Github Info Page -- python
+# This is a dev python repository is for backend developers. 
+
+The Infra was last modified by: Harbrinder Sidhu
